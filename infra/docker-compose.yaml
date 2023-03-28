@@ -55,6 +55,6 @@ services:
       - web
 
 volumes:
-  # Новые тома 
+  postgres_data:
   static_value:
   media_value:
